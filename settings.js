@@ -36,18 +36,18 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //OWNER CONTACT
-global.vcardowner = ['94711421243'] //ur owner number
-global.ownername = "ᴋɪɴɢ ᴅᴀʀᴋ ᴀʟᴘʜᴀ" //ur owner name
-global.ytname = "YT: TGM Arcade" //ur yt chanel name
-global.socialm = "GitHub: darkalphaxteam" //ur github or insta name
-global.location = "Sri Lanka, Kurunagala, Nikaweratiya" //ur location
+global.vcardowner = ['94705754420'] //ur owner number
+global.ownername = "DEVINDU BRO" //ur owner name
+global.ytname = "YT: DEVINDU BRO" //ur yt chanel name
+global.socialm = "Youtube:https://www.youtube.com/channel/UCSVwrsRG1Kea9QSfSSWCKog " //ur github or insta name
+global.location = "Sri Lanka, EMBILIPITIYA, Kolonna" //ur location
 
 //BOT COSTOMIZEDTATION
-global.owner = ['94711421243']
-global.ownertag = '9471421243' //ur tag number
-global.botname = 'CYBER-X TEST EDITION' //ur bot name
-global.ig = "https://youtu.be/uzMbW5v9QLE" //your theme url which will be displayed on whatsapp
-global.myweb = "https://youtu.be/uzMbW5v9QLE" //ur website to be displayed
+global.owner = ['94705754420']
+global.ownertag = '94705754420' //ur tag number
+global.botname = 'CYBER-X DEVINDU BOT' //ur bot name
+global.ig = "https://www.youtube.com/channel/UCSVwrsRG1Kea9QSfSSWCKog" //your theme url which will be displayed on whatsapp
+global.myweb = "https://chat.whatsapp.com/BUBKQNADNiT4hLcZVF9x83" //ur website to be displayed
 global.sc = 'https://github.com/darkalphaxteam' //script link
 global.linkz = 'https://youtu.be/uzMbW5v9QLE'
 global.reactmoji = "😘" //ur menu react emoji
